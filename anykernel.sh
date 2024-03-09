@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=FSociety kernel by Richard
+kernel.string=OrtusLight kernel by HinohArata
 do.devicecheck=1
 no_magisk_check=1
 do.modules=0
